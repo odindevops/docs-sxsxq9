@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-suixq4.nuansa138win.space/sitemap.xml
